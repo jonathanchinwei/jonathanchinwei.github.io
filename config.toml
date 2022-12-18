@@ -1,0 +1,43 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Jonathan Chin'
+theme = 'cactus'
+
+[[menu.main]]
+name = 'Home'
+url = '/'
+weight = 1
+
+[[menu.main]]
+name = 'Posts'
+url = '/posts'
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[params]
+colortheme = "classic"
+description = """I'm  Jonathan, a sophomore at the University of Toronto specialising in Economics and Data Analytics. I care about macroeconomics, development finance and nation-building. I'll be joining J.P. Morgan as a Summer Analyst (Equity Research) in June 2023, and was previously a Summer Analyst at the Malaysian central bank conducting investments and commodities research within the Economics department.
+
+In a former life, I was involved in competitive debate. In high school, I ranked as one the world's top ten speakers (World Schools Debating Championships) and was thereafter a coach for Team Malaysia 2022. 
+
+Apart from economics and development, I have a deep interest in foreign policy, effective altruism, evolutionary biology, and apologetics. Through this site, I hope to better reflect on that which I experience and learn!"""
+
+mainSection = "posts"
+mainSectionTitle = "Blog"
+
+showAllPostsOnHomePage = false
+postsOnHomePage = 5
+
+tagsOverview = false
+
+[[params.social]]
+  name = "email"
+  link = "jonathan.chin@mail.utoronto.ca" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "linkedin"
+  link = "https://www.linkedin.com/in/jonathanchinwei/"   

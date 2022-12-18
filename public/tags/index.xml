@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jonathan Chin</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Jonathan Chin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Dec 2022 22:04:08 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Econometrics</title>
+      <link>/tags/econometrics/</link>
+      <pubDate>Sat, 17 Dec 2022 22:04:08 -0500</pubDate>
+      
+      <guid>/tags/econometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economics</title>
+      <link>/tags/economics/</link>
+      <pubDate>Sat, 17 Dec 2022 22:04:08 -0500</pubDate>
+      
+      <guid>/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IR</title>
+      <link>/tags/ir/</link>
+      <pubDate>Sat, 17 Dec 2022 17:29:52 -0500</pubDate>
+      
+      <guid>/tags/ir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
