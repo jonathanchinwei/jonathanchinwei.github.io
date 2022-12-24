@@ -2,6 +2,7 @@ baseURL = 'jonathanchinwei.github.io'
 languageCode = 'en-us'
 title = 'Jonathan Chin'
 theme = 'cactus'
+publishDir = 'docs'
 
 [[menu.main]]
 name = 'Home'
