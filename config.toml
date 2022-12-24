@@ -1,4 +1,4 @@
-baseURL = 'https://jonathanchinwei.github.io'
+baseURL = 'https://shimmering-seahorse-8e7553.netlify.app/'
 languageCode = 'en-us'
 title = 'Jonathan Chin'
 theme = 'cactus'
