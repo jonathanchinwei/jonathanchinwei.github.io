@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Jonathan Chin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Dec 2022 17:29:52 -0500</lastBuildDate><atom:link href="https://shimmering-seahorse-8e7553.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shimmering-seahorse-8e7553.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rolling Correlations: Time Series Relationships</title>
+      <link>https://shimmering-seahorse-8e7553.netlify.app/posts/fourth/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://shimmering-seahorse-8e7553.netlify.app/posts/fourth/</guid>
+      <description>Rolling correlations are correlations between two time series data sets using a rolling window. Unlike ordinary correlation analyses, they offer the advantage of visualising the relationship between variables across multiple consecutive time periods. In the graph below, quarterly prices of Spot WTI and Brent crude oil prices are used to produce four-quarter rolling correlations across the period from 2Q1999 to 3Q2022: each point represents a four-quarter correlation between the price of WTI and Brent.</description>
+    </item>
+    
     <item>
       <title>Post-1949 US-China Relations: A (Very) Brief Overview</title>
       <link>https://shimmering-seahorse-8e7553.netlify.app/posts/third/</link>
@@ -33,15 +42,6 @@ US-China relations occupy a distinct and significant position in modern internat
       
       <guid>https://shimmering-seahorse-8e7553.netlify.app/posts/first/</guid>
       <description>The motivation for this two-part write-up originated in competitive debate, where ICC-Africa relations were a frequent topic of discussion. An international relations seminar course I took in first year gave me the opportunity to write a policy brief on the issue, from which this write-up was conjured. In Part 1, I dive into the history of the relationship between the ICC and Africa to set a context to a discussion on the present and future in Part 2.</description>
-    </item>
-    
-    <item>
-      <title>Rolling Correlations: Time Series Relationships</title>
-      <link>https://shimmering-seahorse-8e7553.netlify.app/posts/fourth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shimmering-seahorse-8e7553.netlify.app/posts/fourth/</guid>
-      <description>Rolling correlations are correlations between two time series data sets using a rolling window. Unlike ordinary correlation analyses, they offer the advantage of visualising the relationship between variables across multiple consecutive time periods. In the Excel chart below, quarterly prices of Spot WTI and Brent crude oil prices are used to produce four-quarter rolling correlations across the period from 2Q1999 to 3Q2022: each point represents a four-quarter correlation between the price of WTI and Brent.</description>
     </item>
     
   </channel>

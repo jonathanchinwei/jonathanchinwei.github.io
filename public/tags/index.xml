@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Jonathan Chin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Dec 2022 17:29:52 -0500</lastBuildDate><atom:link href="https://shimmering-seahorse-8e7553.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>IR</title>
-      <link>https://shimmering-seahorse-8e7553.netlify.app/tags/ir/</link>
-      <pubDate>Sat, 17 Dec 2022 17:29:52 -0500</pubDate>
-      
-      <guid>https://shimmering-seahorse-8e7553.netlify.app/tags/ir/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 23 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shimmering-seahorse-8e7553.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Econometrics</title>
       <link>https://shimmering-seahorse-8e7553.netlify.app/tags/econometrics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shimmering-seahorse-8e7553.netlify.app/tags/econometrics/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>Economics</title>
       <link>https://shimmering-seahorse-8e7553.netlify.app/tags/economics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://shimmering-seahorse-8e7553.netlify.app/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IR</title>
+      <link>https://shimmering-seahorse-8e7553.netlify.app/tags/ir/</link>
+      <pubDate>Sat, 17 Dec 2022 17:29:52 -0500</pubDate>
+      
+      <guid>https://shimmering-seahorse-8e7553.netlify.app/tags/ir/</guid>
       <description></description>
     </item>
     
