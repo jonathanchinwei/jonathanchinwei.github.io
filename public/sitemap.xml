@@ -2,36 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/econometrics/</loc>
-    <lastmod>2022-12-17T22:04:08-05:00</lastmod>
-  </url><url>
-    <loc>/tags/economics/</loc>
-    <lastmod>2022-12-17T22:04:08-05:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-12-17T22:04:08-05:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-12-17T22:04:08-05:00</lastmod>
-  </url><url>
-    <loc>/posts/fourth/</loc>
-    <lastmod>2022-12-17T22:04:08-05:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-12-17T22:04:08-05:00</lastmod>
-  </url><url>
-    <loc>/tags/ir/</loc>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/tags/ir/</loc>
     <lastmod>2022-12-17T17:29:52-05:00</lastmod>
   </url><url>
-    <loc>/posts/third/</loc>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/</loc>
     <lastmod>2022-12-17T17:29:52-05:00</lastmod>
   </url><url>
-    <loc>/posts/second/</loc>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/posts/third/</loc>
+    <lastmod>2022-12-17T17:29:52-05:00</lastmod>
+  </url><url>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/posts/</loc>
+    <lastmod>2022-12-17T17:29:52-05:00</lastmod>
+  </url><url>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/tags/</loc>
+    <lastmod>2022-12-17T17:29:52-05:00</lastmod>
+  </url><url>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/posts/second/</loc>
     <lastmod>2022-12-17T00:36:26-05:00</lastmod>
   </url><url>
-    <loc>/posts/first/</loc>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/posts/first/</loc>
     <lastmod>2022-12-17T00:30:42-05:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/tags/econometrics/</loc>
+  </url><url>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/tags/economics/</loc>
+  </url><url>
+    <loc>https://shimmering-seahorse-8e7553.netlify.app/posts/fourth/</loc>
   </url>
 </urlset>

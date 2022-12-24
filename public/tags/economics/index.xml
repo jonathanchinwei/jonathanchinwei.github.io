@@ -2,18 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economics on Jonathan Chin</title>
-    <link>/tags/economics/</link>
+    <link>https://shimmering-seahorse-8e7553.netlify.app/tags/economics/</link>
     <description>Recent content in Economics on Jonathan Chin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 17 Dec 2022 22:04:08 -0500</lastBuildDate><atom:link href="/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://shimmering-seahorse-8e7553.netlify.app/tags/economics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rolling Correlations: Time Series Relationships</title>
-      <link>/posts/fourth/</link>
-      <pubDate>Sat, 17 Dec 2022 22:04:08 -0500</pubDate>
+      <link>https://shimmering-seahorse-8e7553.netlify.app/posts/fourth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/fourth/</guid>
-      <description>Rolling correlations are correlations between two time series data sets using rolling window. Unlike ordinary correlation analyses, they offer the advantage of visualising the relationship between variables across multiple consecutive time periods. In the Excel chart below, quarterly prices of Spot WTI and Brent crude oil prices are used to produce four-quarter rolling correlations across the period from 2Q1999 to 3Q2022: each point represents a four-quarter correlation between the price of WTI and Brent.</description>
+      <guid>https://shimmering-seahorse-8e7553.netlify.app/posts/fourth/</guid>
+      <description>Rolling correlations are correlations between two time series data sets using a rolling window. Unlike ordinary correlation analyses, they offer the advantage of visualising the relationship between variables across multiple consecutive time periods. In the Excel chart below, quarterly prices of Spot WTI and Brent crude oil prices are used to produce four-quarter rolling correlations across the period from 2Q1999 to 3Q2022: each point represents a four-quarter correlation between the price of WTI and Brent.</description>
     </item>
     
   </channel>
