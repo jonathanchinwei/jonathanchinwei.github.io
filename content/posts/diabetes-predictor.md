@@ -37,5 +37,5 @@ For fun, I also created a correlation matrix for each of the features of the mod
 
 ![Diabetes Correl Matrix](/diabetes-correl-matrix.png)
 
-This process has served given as a fun, instructive introduction to the significant ramifications ML can have wherever data is present!
+This process has served as a fun, instructive introduction to the significant ramifications ML can have wherever data is present!
 
