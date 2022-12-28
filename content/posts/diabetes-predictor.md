@@ -4,7 +4,7 @@ date: 2022-12-27
 draft: false
 tags: ["Python"]
 ---
-Happy Holidays! I recently took some time to read about medicine (a longstanding interest!) and have found ML applications in medical diagnosis / prediction really interesting. I'm very much a beginner to ML so much of this post is limited by a very rudimentary understanding of the subject. I've been watching a series of videos by [APEER]("https://www.youtube.com/@apeer_micro5558"), an image analysis company, from which I've been able to learn how to create simple deep learning models in Python. ML-ready data is easily accessible on sites such as [University of California Irvine's ML Repository]("https://archive.ics.uci.edu/ml/datasets.php") and [Kaggle]("https://www.kaggle.com/datasets")! 
+Happy Holidays! I recently took some time to read about medicine (a longstanding interest!) and have found ML applications in medical diagnosis/prediction really interesting. I'm very much a beginner to ML so much of this post is limited by a very rudimentary understanding of the subject. I've been watching a series of videos by [APEER]("https://www.youtube.com/@apeer_micro5558"), an image analysis company, from which I've been able to learn how to create simple deep learning models in Python. ML-ready data is easily accessible on sites such as [University of California Irvine's ML Repository]("https://archive.ics.uci.edu/ml/datasets.php") and [Kaggle]("https://www.kaggle.com/datasets")! 
 
 ## About the model
 
@@ -33,7 +33,7 @@ As seen from the heatmap, it appears this model works well on the diabetes datas
 
 ![Diabetes Heatmap](/diabetes-heatmap.png)
 
-For fun, I also created a correlation matrix for each of the features of the model to possibly help identify which risk factors / symptoms are most closely associated with diabetes. Below, the two highest coefficients are from label (diabetes status) with polyuria and polydipsia, respectively. A quick [search]("https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-symptoms/art-20044248#:~:text=Excessive%20thirst%20and%20increased%20urination%20are%20common%20diabetes%20signs%20and,and%20absorb%20the%20excess%20glucose.") showed that increased urination (polyuria) and excessive thirst (polydipsia) are common signs/symptoms of diabetes: this reaffirms our matrix!
+For fun, I also created a correlation matrix for each of the features of the model to possibly help identify which risk factors/symptoms are most closely associated with diabetes. Below, the two highest coefficients are from label (diabetes status) with polyuria and polydipsia, respectively. A quick [search]("https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-symptoms/art-20044248#:~:text=Excessive%20thirst%20and%20increased%20urination%20are%20common%20diabetes%20signs%20and,and%20absorb%20the%20excess%20glucose.") showed that increased urination (polyuria) and excessive thirst (polydipsia) are common signs/symptoms of diabetes: this reaffirms our matrix!
 
 ![Diabetes Correl Matrix](/diabetes-correl-matrix.png)
 
