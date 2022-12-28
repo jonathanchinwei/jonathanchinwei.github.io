@@ -29,9 +29,9 @@ Between the input layer and hidden layer, we choose to drop off 20% of connectio
 The activation functions "relu" and "sigmoid" were chosen according to [rules of thumb](https://towardsdatascience.com/17-rules-of-thumb-for-building-a-neural-network-93356f9930af): "relu" is recommended for intermediate layers while sigmoid is used for binary classification. The loss function, "binary_crossentropy" and optimizer, "adam", were also chosen in accordance with rules of thumb specified in the same article. (These are features I hope to learn more about to better understand neural networks!)
 
 ## Results
-As seen from the heatmap, it appears this model works well on the diabetes dataset used: on the training data (which I selected to be 25% of the total data => 130 datapoints), the model achieves an accuracy of ~91% (118/130). Only 6 results are false positives and only 6 are false negatives.
+As seen from the chart, it appears this model works well on the diabetes dataset used: on the training data (which I selected to be 25% of the total data => 130 datapoints), the model achieves an accuracy of ~91% (118/130). Only 6 results are false positives and only 6 are false negatives.
 
-![Diabetes Heatmap](/diabetes-heatmap.png)
+![Diabetes Model Results](/diabetes-model-results.png)
 
 For fun, I also created a correlation matrix for each of the features of the model to possibly help identify which risk factors/symptoms are most closely associated with diabetes. Below, the two highest coefficients are from label (diabetes status) with polyuria and polydipsia, respectively. A quick [search](https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-symptoms/art-20044248#:~:text=Excessive%20thirst%20and%20increased%20urination%20are%20common%20diabetes%20signs%20and,and%20absorb%20the%20excess%20glucose.) showed that increased urination (polyuria) and excessive thirst (polydipsia) are common signs/symptoms of diabetes: this reaffirms our matrix!
 
