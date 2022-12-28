@@ -4,7 +4,7 @@ date: 2022-12-27
 draft: false
 tags: ["Python"]
 ---
-Happy Holidays! I recently took some time to read about medicine (a longstanding interest!) and have found ML applications in medical diagnosis/prediction really interesting. I'm very much a beginner to ML so much of this post is limited by a very rudimentary understanding of the subject. I've been watching a series of videos by [APEER](https://www.youtube.com/@apeer_micro5558), an image analysis company, from which I've been able to learn how to create simple deep learning models in Python. ML-ready data is easily accessible on sites such as [University of California Irvine's ML Repository](https://archive.ics.uci.edu/ml/datasets.php) and [Kaggle](https://www.kaggle.com/datasets)! 
+Happy Holidays! I've recently taken some time to read about medicine (a longstanding interest!) and have found ML applications in medical diagnosis/prediction really interesting. I'm very much a beginner to ML so much of this post is limited by a very rudimentary understanding of the subject. I've been watching a series of videos by [APEER](https://www.youtube.com/@apeer_micro5558), an image analysis company, from which I've been able to learn how to create simple deep learning models in Python. ML-ready data is easily accessible on sites such as [University of California Irvine's ML Repository](https://archive.ics.uci.edu/ml/datasets.php) and [Kaggle](https://www.kaggle.com/datasets)! 
 
 ## About the model
 
