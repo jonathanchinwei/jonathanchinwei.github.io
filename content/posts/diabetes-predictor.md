@@ -1,5 +1,5 @@
 ---
-title: "Building a Simple Deep Learning Model to Predict Diabetes"
+title: "Building a Simple Neural Network for Diabetes Prediction"
 date: 2022-12-27
 draft: false
 tags: ["Python"]
