@@ -5,7 +5,7 @@ draft: false
 tags: ["IR"]
 ---
 
-**The motivation for this two-part write-up originated in competitive debate, where ICC-Africa relations were a frequent topic of discussion. An international relations seminar course I took in first year gave me the opportunity to write a policy brief on the issue, from which this write-up is inspired. In Part 1, I dive into the history of the relationship between the ICC and Africa to set a context to a discussion on the present and future in Part 2.**
+**The motivation for this two-part write-up originated in competitive debate, where ICC-Africa relations were a frequent topic of discussion. An international relations seminar course I took in first year gave me the opportunity to write a policy brief on the issue, from which this write-up is conjured. In Part 1, I dive into the history of the relationship between the ICC and Africa to set a context to a discussion on the present and future in Part 2.**
 
 # The ICC's Current Policy Towards Africa
 
