@@ -33,7 +33,7 @@ As seen from the chart, it appears this model works well on the diabetes dataset
 
 ![Diabetes Model Results](/diabetes-model-results.png)
 
-For fun, I also created a correlation matrix for each of the features of the model to possibly help identify which risk factors/symptoms are most closely associated with diabetes. Below, the two highest coefficients are from label (diabetes status) with polyuria and polydipsia, respectively. A quick [search](https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-symptoms/art-20044248#:~:text=Excessive%20thirst%20and%20increased%20urination%20are%20common%20diabetes%20signs%20and,and%20absorb%20the%20excess%20glucose.) showed that increased urination (polyuria) and excessive thirst (polydipsia) are common signs/symptoms of diabetes: this reaffirms our matrix!
+For fun, I also created a correlation matrix for each of the features of the model to possibly help identify which risk factors/symptoms are most closely associated with diabetes. Below, the two highest coefficients are from label (diabetes status) with polyuria and polydipsia, respectively. A quick [search](https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-symptoms/art-20044248#:~:text=Excessive%20thirst%20and%20increased%20urination%20are%20common%20diabetes%20signs%20and,and%20absorb%20the%20excess%20glucose.) showed that increased urination (polyuria) and excessive thirst (polydipsia) are common signs/symptoms of diabetes: this reaffirms our matrix.
 
 ![Diabetes Correl Matrix](/diabetes-correl-matrix.png)
 
