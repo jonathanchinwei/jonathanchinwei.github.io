@@ -2,7 +2,7 @@ baseURL = 'https://jonathanchinwei.github.io/'
 languageCode = 'en-us'
 title = 'Jonathan Chin'
 theme = 'cactus'
-googleAnalytics = G-DE482DSQWR
+googleAnalytics = 'G-DE482DSQWR'
 
 [[menu.main]]
 name = 'Home'
