@@ -13,7 +13,7 @@ ___“It is an implication of this principle of equality that our concern for ot
 
 Singer proceeds to quote Jeremy Bentham, the utilitarian philosopher, who frames the capacity for suffering as the vital feature that gives rise to the right to equal consideration. The capacity for suffering and enjoyment is a “prerequisite for having interests at all”; “if a being suffers there can be no moral justification for refusing to take that suffering into consideration.” Just as the racist and sexist violate the principle of equality by giving preference to interests of their own group, “speciesists”, as Singer coins, engage in such moral abhorrence in relation to other species: “The pattern is identical in each case.”
 
-In The Expanding Circle, Singer further illustrates how the arc of history bent towards justice for slaves, for women, for immigrants, to characterize the blatant ignorance of previous generations in perpetuating, just as we are with regard to non-human animals, a moral catastrophe. A good explanation on how we might be perpetuating an ongoing moral catastrophe can be found here.
+In The Expanding Circle, Singer further illustrates how the arc of history bent towards justice for slaves, for women, for immigrants, to characterize the blatant ignorance of previous generations in perpetuating, just as we are with regard to non-human animals, a moral catastrophe. A good explanation on how we might be perpetuating an ongoing moral catastrophe can be found [here](https://philpapers.org/rec/WILTPO-101).
 ![Moral Circle](/moralcircle.jpg)
 
 Singer’s arguments are compelling, but here, two important ideas are noted: one philosophical, the other, practical. 

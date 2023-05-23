@@ -10,3 +10,4 @@ In the winter semester, I had the opportunity to carry out an independent resear
 
 # Paper PDF
 
+{{< googlePdfReader "1qfRzgSlRHBHqXaN6ZkvYPqeLF_DAjBoq" "China CSI" >}}
