@@ -1,5 +1,5 @@
 ---
-title: "Research Project: COVID-19 in China & the CSI-300"
+title: "Research Project: COVID-19 in China and the CSI-300"
 date: 2023-05-23
 draft: false
 tags: ["Economics, Econometrics"]
