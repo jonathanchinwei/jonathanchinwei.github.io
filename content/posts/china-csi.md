@@ -2,7 +2,7 @@
 title: "Research Project: COVID-19 in China and the CSI-300"
 date: 2023-05-23
 draft: false
-tags: []
+tags: ["Econometrics", "Economics"]
 ---
 In the winter semester, I had the opportunity to carry out an independent research project as part of my big data economics course. The paper examines the relationship between COVID-19  cases and deaths in China, and the CSI300 (the Chinese equivalent of the S&P500). I was able to discover and employ a range of techniques ranging from multiple regression to  Granger causality and machine learning. The paper was a labor of love — enjoy!
 
@@ -10,3 +10,4 @@ In the winter semester, I had the opportunity to carry out an independent resear
 
 # Paper PDF
 
+{{< googlePdfReader "1qfRzgSlRHBHqXaN6ZkvYPqeLF_DAjBoq" "China CSI" >}}
