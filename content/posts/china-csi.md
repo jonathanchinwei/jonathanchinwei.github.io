@@ -1,7 +1,7 @@
 ---
 title: "Research Project: COVID-19 in China and the CSI-300"
 date: 2023-05-23
-draft: false
+draft: true
 tags: ["Econometrics", "Economics", "Python"]
 ---
 In the winter semester, I had the opportunity to carry out an independent research project as part of my big data economics course. The paper examines the relationship between COVID-19  cases and deaths in China, and the CSI300 (the Chinese equivalent of the S&P500).
