@@ -1,7 +1,7 @@
 ---
 title: "Rolling Correlations: Time Series Relationships"
 date: 2022-12-23
-draft: false
+draft: true
 tags: ["Econometrics", "Economics"]
 ---
 Rolling correlations are correlations between two time series data sets using a rolling window. Unlike ordinary correlation analyses, they offer the advantage of visualising the relationship between variables across multiple consecutive time periods. In the graph below, quarterly prices of Spot WTI and Brent crude oil prices are used to produce four-quarter rolling correlations across the period from 2Q1999 to 3Q2022: each point represents a four-quarter correlation between the price of WTI and Brent. (Data from [FRED](https://fred.stlouisfed.org/).)

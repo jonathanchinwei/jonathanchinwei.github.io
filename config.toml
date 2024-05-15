@@ -20,11 +20,11 @@ weight = 3
 
 [params]
 colortheme = "classic"
-description = """I'm  Jonathan, an incoming senior at the University of Toronto specialising in Economics and Data Analytics.
+description = """I'm  Jonathan, an incoming senior at the University of Toronto studying Economics and Data Analytics. I care mostly about markets and development, with prior work experience in equity research and macroeconomic research. I'll be joining BCG Toronto as a Summer Associate in June. 
 
-In a former life, I was involved in competitive debate. In high school, I was ranked as one of the world's top ten speakers (World Schools Debating Championships) and was thereafter a coach for Team Malaysia 2022. 
+In a former life I was a debater and coach: in high school, I was a top ten debater at the world championships was thereafter a coach for Team Malaysia 2022. 
 
-I also have an interest in international relations and Christian apologetics."""
+Other interests include international relations and Christian apologetics. """
 
 mainSection = "posts"
 mainSectionTitle = "Blog"
